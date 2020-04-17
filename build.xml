@@ -4,7 +4,7 @@
     <property name="jmeter-home" value="opt/apache-jmeter-5.0" />
     <path id="ant.jmeter.classpath">
         <pathelement
-        location="${jmeter-home}/extras/ant-jmeter-1.10.7.jar" />
+        location="${jmeter-home}/extras/ant-jmeter-1.1.1.jar" />
     </path>
     <path id="xslt.classpath">
         <fileset dir="${jmeter-home}/lib" includes="xalan*.jar"/>
